@@ -1,3 +1,5 @@
+#Adicionar os pacotes faltantes
+
 library(ggplot2)
 library(GGally)
 library(sna)
